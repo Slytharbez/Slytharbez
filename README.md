@@ -13,11 +13,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Acerca de mí 
 
-<p align="center">
-    <a href="https://github.com/HridoyHazard/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HridoyHazard&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Slytharbez&theme=dark&hide_border=true&border_radius=8&locale=es&fire=3672EB&stroke=000000&ring=3675EB&currStreakLabel=367CEB)](https://git.io/streak-stats)
 
 <!--profile visit count-->
 
