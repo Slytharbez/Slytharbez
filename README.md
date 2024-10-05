@@ -9,8 +9,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Acerca de mí 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Slytharbez&theme=dark&hide_border=true&border_radius=8&locale=es&fire=3672EB&stroke=000000&ring=3675EB&currStreakLabel=367CEB)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Slytharbez&theme=transparent&locale=es&border=EB545400&stroke=EB545400&dates=CFCFCF&sideNums=EBEBEB&currStreakNum=EBEBEB)](https://git.io/streak-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=slytharbez&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Estadísticas de Slytharbez](https://github-readme-stats.vercel.app/api?username=slytharbez&show_icons=true&theme=github_dark)
