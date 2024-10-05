@@ -13,6 +13,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![Estadísticas de Slytharbez](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_dark)
+
 <!--profile visit count-->
 
 <div align="center">
