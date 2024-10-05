@@ -11,6 +11,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Slytharbez&theme=dark&hide_border=true&border_radius=8&locale=es&fire=3672EB&stroke=000000&ring=3675EB&currStreakLabel=367CEB)](https://git.io/streak-stats)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--profile visit count-->
 
 <div align="center">
