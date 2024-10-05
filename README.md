@@ -11,9 +11,11 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Slytharbez&theme=dark&hide_border=true&border_radius=8&locale=es&fire=3672EB&stroke=000000&ring=3675EB&currStreakLabel=367CEB)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=slytharbez&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Estadísticas de Slytharbez](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_dark)
+![Estadísticas de Slytharbez](https://github-readme-stats.vercel.app/api?username=slytharbez&show_icons=true&theme=github_dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slytharbez)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--profile visit count-->
 
