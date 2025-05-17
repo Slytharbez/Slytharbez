@@ -18,6 +18,8 @@
 
 ![Estadísticas de Slytharbez](https://github-readme-stats.vercel.app/api?username=slytharbez&show_icons=true&theme=github_dark)
 
+![Sumary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slytharbez&theme=transparent)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slytharbez)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--profile visit count-->
