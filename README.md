@@ -7,7 +7,11 @@
 
 <!--Acerca de mí-->
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Acerca de mí 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Slytharbez&theme=transparent&locale=es&border=EB545400&stroke=EB545400&dates=CFCFCF&sideNums=EBEBEB&currStreakNum=EBEBEB)](https://git.io/streak-stats)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=slytharbez&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
