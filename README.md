@@ -37,7 +37,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Slytharbez&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![]([![trophy](https://github-profile-trophy.vercel.app/?username=slytharbez&column=-1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy))
+[![trophy](https://github-profile-trophy.vercel.app/?username=slytharbez)](https://github.com/ryo-ma/github-profile-trophy)(https://github-profile-trophy.vercel.app/?username=slytharbez&theme=onedark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
