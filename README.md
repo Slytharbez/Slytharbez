@@ -20,24 +20,24 @@
   <tr>
     <td align="center">
       <a href="https://github.com/The-Encoders-Club/MonikaModDev-TEC">
-        <img src="https://github-vercel-deployment-seven.vercel.app/api/pin/?username=The-Encoders-Club&repo=MonikaModDev-TEC&theme=github_dark&hide_border=true&bg_color=00000000" alt="MonikaModDev-TEC" />
+        <img src="https://github-vercel-deployment-seven.vercel.app/api/pin/?username=The-Encoders-Club&repo=MonikaModDev-TEC&theme=github_dark&hide_border=true&bg_color=00000000&v=1" alt="MonikaModDev-TEC" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/The-Encoders-Club/NatsukiModDev-TEC">
-        <img src="https://github-vercel-deployment-seven.vercel.app/api/pin/?username=The-Encoders-Club&repo=NatsukiModDev-TEC&theme=github_dark&hide_border=true&bg_color=00000000" alt="NatsukiModDev-TEC" />
+        <img src="https://github-vercel-deployment-seven.vercel.app/api/pin/?username=The-Encoders-Club&repo=NatsukiModDev-TEC&theme=github_dark&hide_border=true&bg_color=00000000&v=1" alt="NatsukiModDev-TEC" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/The-Encoders-Club/JustYuri-TEC">
-        <img src="https://github-vercel-deployment-seven.vercel.app/api/pin/?username=The-Encoders-Club&repo=JustYuri-TEC&theme=github_dark&hide_border=true&bg_color=00000000" alt="JustYuri-TEC" />
+        <img src="https://github-vercel-deployment-seven.vercel.app/api/pin/?username=The-Encoders-Club&repo=JustYuri-TEC&theme=github_dark&hide_border=true&bg_color=00000000&v=1" alt="JustYuri-TEC" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/The-Encoders-Club/DynamicTextureManager">
-        <img src="https://github-vercel-deployment-seven.vercel.app/api/pin/?username=The-Encoders-Club&repo=DynamicTextureManager&theme=github_dark&hide_border=true&bg_color=00000000" alt="DynamicTextureManager" />
+        <img src="https://github-vercel-deployment-seven.vercel.app/api/pin/?username=The-Encoders-Club&repo=DynamicTextureManager&theme=github_dark&hide_border=true&bg_color=00000000&v=1" alt="DynamicTextureManager" />
       </a>
     </td>
   </tr>
