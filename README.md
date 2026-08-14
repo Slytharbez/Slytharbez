@@ -8,7 +8,7 @@
 
 <br clear="right" />
 
-## Herramientas y Tecnologías 🛠️
+## Herramientas y Tecnologías 🖥️
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,kotlin,java,androidstudio,godot,js,ts,html,css,git,github,vscode,discord,powershell&theme=dark" />
