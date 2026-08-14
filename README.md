@@ -43,7 +43,7 @@
   </tr>
 </table>
 
-## Estadísticas y Actividad 📊
+## Estadísticas y Actividad 🏆
 <table align="center" width="100%">
   <tr>
     <td align="center">
